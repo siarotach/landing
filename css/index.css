@@ -1,5 +1,15 @@
-.header__pic {
-    background-image: url('../img/background-figma.png');
-    background-size: cover; 
-    width: 100%;
-  }
+header {
+  background-image: url('../img/background-figma.png');
+  background-size: cover; 
+  width: 100%;
+}
+
+.header-logo {
+  width: 186px;
+  height: 58px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+
