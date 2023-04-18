@@ -19,7 +19,7 @@ header {
   }
 }
 
-@media  and (min-width: 360 px) {
+@media screen and (min-width: 360px) {
   .navbar, .social {
     display: none
   }
