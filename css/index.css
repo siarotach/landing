@@ -12,4 +12,15 @@ header {
   flex-grow: 0;
 }
 
+@media screen and (min-width: 600px) {
+  .header-logo, .navbar, .social {
+    display: flex;
+    justify-content: space-around;
+  }
+}
 
+@media  and (min-width: 360 px) {
+  .navbar, .social {
+    display: none
+  }
+}
