@@ -1,0 +1,5 @@
+.header__pic {
+    background-image: url('../img/background-figma.png');
+    background-size: cover; 
+    width: 100%;
+  }
